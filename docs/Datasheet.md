@@ -82,7 +82,7 @@
 •	When will the dataset be distributed?  
     t is currently available.  
 ●	Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)? If so, please describe this license and/or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.   
-    The dataset is distributed under the Database Contents License (DbCL) v1.0 license (https://opendatacommons.org/licenses/dbcl/1-0/)  
+    The dataset is distributed under the Database Contents License (DbCL) v1.0 license (https://opendatacommons.org/licenses/dbcl/1-0/).   
 
 ## Maintenance  
 ●	Who will be maintaining the dataset?  
