@@ -20,6 +20,8 @@ As part of this project we created a set of credit card fraud detection classifi
     *  Recall
     * F1 score
 
+A Datasheet and a Model Card can be found under the *docs/* folder.
+
 ## How to run the model
 
 ### 1. Set up environment
@@ -48,5 +50,5 @@ poetry install
 The data used for generating the classification algorithms, can be found here:  
 (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310&sortBy=voteCount&searchQuery=decision+tree)  
 
-Before running the jupyter notebook found under the directory *notebooks/* you must download the data locally and place them inside the *data/* folder. 
+Before running the jupyter notebook found under the directory *notebooks/* you must download the data locally and place them inside a folder called *data* in the main directory. 
 
